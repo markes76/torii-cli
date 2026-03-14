@@ -1,5 +1,9 @@
 # torii-cli
 
+<p align="center">
+  <img src="assets/hero.png" alt="torii-cli" width="220" />
+</p>
+
 A command-line interface for the [Torii](https://www.toriihq.com/) SaaS Management Platform API. Manage users, applications, contracts, licenses, workflows, and compliance directly from your terminal or from AI agents.
 
 > **Version 1.0 — Early Release**
