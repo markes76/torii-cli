@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Config (contains API keys)
+# Note: ~/.torii-cli/config.json is in the user's home dir and never in this repo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Firecrawl scrape cache (development only)
+.firecrawl/
+
+# Logs
+*.log
+npm-debug.log*
+firebase-debug.log
+
+# TypeScript incremental
+*.tsbuildinfo
